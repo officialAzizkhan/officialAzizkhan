@@ -1,16 +1,29 @@
-### Hi there 👋
+ 👋 Hi, I’m Aziz.
+ 
+ - 👀 I’m interested in coding, programming languages & software related.
+ 
+- 🌱 I’m currently learning Web Development
 
-<!--
-**officialAzizkhan/officialAzizkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 I’m looking to collaborate on twitter & facebook page.
 
-Here are some ideas to get you started:
+- 📫 How to reach me/twitter:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- @officalAzizkhan 
+
+📫 How to reach me/Facebook:
+
+- https://web.facebook.com/OfficialFrontendDeveloper
+
+- 💬 Ask me about 
+
+- HTML5
+
+- 📫 How to reach me/Gmail:
+
+- Azizkhanoffical@gmail.com
+
+- 😄 Pronouns: He/Him
+
+- ⚡ Fun fact: 
+
+- Reading is good for you because it improves your focus, memory, empathy, and communication skills also reduce stress, improve your mental health, and help you live longer
