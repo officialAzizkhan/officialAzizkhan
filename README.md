@@ -17,6 +17,7 @@
 - 💬 Ask me about 
 
 - HTML5
+- CSS#
 
 - 📫 How to reach me/Gmail:
 
