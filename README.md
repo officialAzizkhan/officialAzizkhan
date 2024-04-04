@@ -1,23 +1,23 @@
  👋 Hi, I’m Aziz.
  
- - 👀 I’m interested in coding, programming languages & software related.
+ - 👀 I’m interested in AI, Transformers Models, NLP, Machine & Deep Learning and programming languages.
  
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Transformer Model and Chatbots
 
-- 👯 I’m looking to collaborate on twitter & facebook page.
+- 👯 I’m looking to collaborate on twitter & linkedin.
 
 - 📫 How to reach me/twitter:
 
 - @officalAzizkhan 
 
-📫 How to reach me/Facebook:
+📫 How to reach me/linkedin:
 
-- https://web.facebook.com/OfficialFrontendDeveloper
+- azizkhanofficial
 
 - 💬 Ask me about 
 
-- HTML5
-- CSS
+- LLM
+- NLP
 
 - 📫 How to reach me/Gmail:
 
