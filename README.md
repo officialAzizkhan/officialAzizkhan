@@ -18,6 +18,10 @@
 
 - LLM
 - NLP
+- HTML5
+- CSS3
+- Python
+- Modern JavaScript
 
 - 📫 How to reach me/Gmail:
 
