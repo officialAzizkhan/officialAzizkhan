@@ -8,7 +8,7 @@
 
 - 📫 How to reach me/twitter:
 
-- @officalAzizkhan 
+- @officialAzizk
 
 📫 How to reach me/linkedin:
 
