@@ -1,12 +1,12 @@
  👋 Hi, I’m Aziz.
  
- - 👀 I’m interested in AI, Transformers Models, NLP, Machine & Deep Learning and programming languages.
+ - 👀 I’m interested in AI, Transformers Models, NLP, LLM and programming languages.
  
-- 🌱 I’m currently learning Transformer Model and Chatbots
+- 🌱 I’m currently working in LLM Projects.
 
-- 👯 I’m looking to collaborate on twitter & linkedin.
+- 👯 I’m looking to collaborate on linkedin & Github.
 
-- 📫 How to reach me/twitter:
+- 📫 How to reach me/twitter/X:
 
 - @officialAzizk
 
@@ -17,6 +17,7 @@
 - 💬 Ask me about 
 
 - LLM
+- AI
 - NLP
 - HTML5
 - CSS3
@@ -25,7 +26,7 @@
 
 - 📫 How to reach me/Gmail:
 
-- Azizkhanoffical@gmail.com
+- iaazizoffiical@gmail.com
 
 - 😄 Pronouns: He/Him
 
