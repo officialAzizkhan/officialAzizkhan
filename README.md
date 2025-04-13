@@ -2,13 +2,9 @@
  
  - 👀 I’m interested in AI, Transformers Models, NLP, LLM and programming languages.
  
-- 🌱 I’m currently working in LLM Projects.
+- 🌱 I’m currently working in AI, ML & LLM Projects.
 
 - 👯 I’m looking to collaborate on linkedin & Github.
-
-- 📫 How to reach me/twitter/X:
-
-- @officialAzizk
 
 📫 How to reach me/linkedin:
 
@@ -19,8 +15,8 @@
 - LLM
 - AI
 - NLP
-- HTML5
-- CSS3
+- ML
+- DL
 - Python
 - Modern JavaScript
 
