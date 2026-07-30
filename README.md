@@ -27,7 +27,7 @@ I'm always interested in collaborating on **AI, Machine Learning, NLP and Open S
 - GitHub: https://github.com/officialAzizkhan
 - LinkedIn: https://linkedin.com/in/azizkhanofficial
 
-## 💬 Ask Me About
+## Ask Me About
 
 - Python
 - Artificial Intelligence
@@ -38,7 +38,7 @@ I'm always interested in collaborating on **AI, Machine Learning, NLP and Open S
 - Prompt Engineering
 - Streamlit
 
-## 📫 Contact
+## Contact
 
 **Email:** iaazizofficial@gmail.com
 
